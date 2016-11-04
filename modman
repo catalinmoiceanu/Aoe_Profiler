@@ -5,3 +5,4 @@ app/code/community/Zend/Db/Profiler.php		app/code/community/Zend/Db/Profiler.php
 skin/adminhtml/default/default/aoe_profiler	skin/adminhtml/default/default/aoe_profiler
 app/design/adminhtml/default/default/layout/aoe_profiler  app/design/adminhtml/default/default/layout/aoe_profiler
 app/design/adminhtml/default/default/template/aoe_profiler  app/design/adminhtml/default/default/template/aoe_profiler
+var/aoe_profiler.xml    var/aoe_profiler.xml

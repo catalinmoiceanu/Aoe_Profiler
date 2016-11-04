@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <aoe_profiler>
+        <trigger>parameter</trigger>
+        <enableFilters>0</enableFilters>
+        <captureModelInfo>1</captureModelInfo>
+        <captureBacktraces>1</captureBacktraces>
+    </aoe_profiler>
+</config>

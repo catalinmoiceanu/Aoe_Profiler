@@ -46,6 +46,11 @@
                     <module>Aoe_Profiler</module>
                 </setup>
             </aoe_profiler_setup>
+            <default_setup>
+                <connection>
+                    <profiler>1</profiler>
+                </connection>
+            </default_setup>
         </resources>
 
         <events>
